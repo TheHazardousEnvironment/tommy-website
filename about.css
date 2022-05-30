@@ -1,0 +1,45 @@
+button.btn {
+    background-color: lightblue;
+    border-color: whitesmoke;
+    border-radius: 10px;
+    color: white;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 650px;
+    top: 250px;
+}
+
+.headers {
+    size: 500px;
+    color: antiquewhite;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    position: relative;
+    left: 800px;
+}
+
+.txt {
+    size: 100px;
+    color: rgb(29, 128, 194);
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic, bold;
+    position: relative;
+    left: 700px;
+    top: 300px;
+}
+
+
+.discordlink {
+    size: 100px;
+    color: rgb(141, 196, 233);
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic, bold;
+    position: relative;
+    left: 700px;
+    top: 5px;
+}
